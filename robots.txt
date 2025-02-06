@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rotebe.csgad.com/OaT/sitemap.xml.gz
